@@ -4363,4 +4363,3 @@ export const EXCLUDED_REVIEW_RECORDS = [
   { id: 13, title: 'Kerala Branch Grand Opening – Trueline Research', reason: 'Corporate inauguration, not a program or workshop.' },
   { id: 14, title: 'MoU signings (various colleges, 2023–2025)', reason: 'MoUs only. Where an MoU coincided with a seminar, the seminar is listed in the main sheet.' },
 ] as const;
-                                    
